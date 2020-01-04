@@ -1,6 +1,4 @@
 jupyterlab
 pandas
-textblob
-plotly-graph_objs
-plotly-subplots
+plotly
 voila
